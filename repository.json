@@ -1,5 +1,5 @@
 {
-  "name": "Home-Assistant add-on repository by fredrikbaberg",
-  "url": "https://github.com/fredrikbaberg/hassio-addons",
-  "maintainer": "Fredrik Baberg"
+  "name": "Home-Assistant add-on repository by fredrikbaberg (fork)",
+  "url": "https://github.com/alryaz/hass-addon-octoprint",
+  "maintainer": "Fredrik Baberg (fork by @alryaz)"
 }
